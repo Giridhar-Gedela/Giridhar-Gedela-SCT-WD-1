@@ -2,7 +2,7 @@
 
 This is **Task 01** completed as part of my internship at **SkillCraft Technology**. The objective was to design and build a responsive landing page with an interactive fixed navigation menu.
 
-🔗 **Live Preview**: [https://giridhar-gedela.github.io/Giridhar-Gedela-SCT-WD-1/](https://giridhar-gedela.github.io/Giridhar-Gedela-SCT-WD-1/)
+🔗 **Live Preview**: [https://giridhar-gedela.github.io/Giridhar-Gedela-SCT-WD-1/](https://giridhar-gedela.github.io/SCT-WD-1/)
 
 ---
 ## 📁 Project Structure
