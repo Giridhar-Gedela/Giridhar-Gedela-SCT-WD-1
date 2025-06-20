@@ -36,7 +36,7 @@ This is a responsive and interactive landing page built as part of an internship
 ## 🙏 Special Thanks
 
 Special thanks to **SkillCraft Technology** for providing this internship opportunity and hands-on project experience.  
-🔗 [SkillCraft on LinkedIn](https://www.linkedin.com/company/skillcrafttechnology)
+🔗 [SkillCraft on LinkedIn](https://www.linkedin.com/company/skillcraft-technology/)
 
 ## 📸 Screenshots
 
